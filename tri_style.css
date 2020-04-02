@@ -3,14 +3,19 @@ body{
     font-size: 1.6rem;
 }
 #main{
-    background: #eeeeee;
+    background: lightgray;
     margin: 30px 8px;
     padding: 15px;
     border-radius: 5px;
 }
+#title{
+    align: center;
+}
 h1{
     font-size: 4rem;
     font-weight: bold;
+    text-align: center;
+
 }
 img{
     max-width: 100%;
